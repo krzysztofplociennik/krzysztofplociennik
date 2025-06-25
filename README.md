@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Krzysztof Płóciennik</h1>
 <h3 align="center">Java Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krzysztofplociennik&label=Profile%20views&color=0e75b6&style=flat" alt="krzysztofplociennik" /> </p>
+- I’m currently working on **few, personal side projects**
 
-- 🔭 I’m currently working on **few personal side projects**
+- You can see my portfolio here -> [https://krzysztofplociennik.com/](https://krzysztofplociennik.com/) 
 
-- I'm learning **Angular/HTML/CSS**
-
-- 👨‍💻 You can see my portfolio here -> [https://krzysztofplociennik.com/](https://krzysztofplociennik.com/) 
-
-- 📫 How to reach me -> **krzysztofplociennik6@gmail.com**
+- How to reach me -> **krzysztofplociennik6@gmail.com** or  <a href="https://www.linkedin.com/in/krzysztof-plociennik" target="_blank" rel="noreferrer"> LinkedIn </a>
 
 <h3 align="left">Languages and Tools that I use:</h3>
 <p align="left"> 
@@ -21,3 +17,5 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krzysztofplociennik&show_icons=true&locale=en&layout=compact" alt="krzysztofplociennik" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krzysztofplociennik&label=Profile%20views&color=0e75b6&style=flat" alt="krzysztofplociennik" /> </p>
